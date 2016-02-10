@@ -1,4 +1,5 @@
 # Sundhedsteknologi - 16gr4404 
+Github er til alt rapport relateret såsom billeder, afsnit, grafer og tekst.
 ##Latex Huskeregler:
 
 - Husk at pull før du begynder at arbejde
