@@ -8,3 +8,11 @@
 *.pdf
 
 *.gz
+
+*.aux
+
+*.bbl
+
+*.blg
+
+*.toc
