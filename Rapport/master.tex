@@ -29,13 +29,15 @@
 \pdfbookmark[0]{Indholdsfortegnelse}{label:indholdsfortegnelse}
 \pagestyle{fancy} %enable headers and footers again
 \tableofcontents
-\input{sections/forord.tex}
+\input{sections/start/forord.tex}
 \cleardoublepage
 %mainmatter
 \pagenumbering{arabic} %use arabic page numbering in the mainmatter
-\input{sections/start/introduction.tex}
-\input{sections/ch2name.tex}
-\input{sections/conclusion.tex}
+\input{sections/start/indledning}
+\input{sections/problemanalyse/problemanalyse}
+	\input{sections/problemanalyse/hjertet}
+	\input{sections/problemanalyse/Hjerteudredning}
+	\input{sections/problemanalyse/scg}
 \printbibliography[heading=bibintoc]
 \label{bib:mybiblio}
 \appendix
